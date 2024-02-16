@@ -1,0 +1,8 @@
+docker rm --force 829f672cedc7 && /   nginx                        "/docker-entrypoint.…"   16 seconds ago   Exited (0) 2 seconds ago                                 mystifying_blackwell
+docker rm --force ace3877e0d2d && /   ubuntu                       "bash"                   4 minutes ago    Exited (0) 3 minutes ago                                 beautiful_mclaren
+docker rm --force 37f3f52de6ae && /   ubuntu                       "bash"                   4 minutes ago    Exited (127) 4 minutes ago                               stoic_lalande
+docker rm --force 6ba4f4717f68 && /   ubuntu                       "bash"                   6 minutes ago    Exited (130) 5 minutes ago                               romantic_lederberg
+docker rm --force 6f24c5dbea21 && /   ubuntu                       "bash"                   6 minutes ago    Exited (0) 6 minutes ago                                 angry_elgamal
+docker rm --force 7e1a23795f1a && /   fe3b15d7adf6                 "/bin/sh -c 'go buil…"   2 weeks ago      Exited (2) 2 weeks ago                                   interesting_heyrovsky
+docker rm --force fd3a42336199 && /   a6bef4c5441c                 "/bin/sh -c 'go buil…"   2 weeks ago      Exited (2) 2 weeks ago                                   adoring_mahavira
+docker rm --force a84516a4b4fa && /   790e7009103f                 "/bin/sh -c 'go buil…"   2 weeks ago      Exited (2) 2 weeks ago               
